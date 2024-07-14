@@ -1,4 +1,4 @@
-# ![image](https://github.com/user-attachments/assets/6bf621ed-2ae7-4430-a4f4-0a848a6ee586) Hello World! 👋,I'm Helena Bohun 
+# ![programming](https://github.com/user-attachments/assets/9ed6c76d-8317-414f-906b-ca695dd340e1) Hello World! 👋 I'm Helena Bohun 
 ## :woman_technologist: Student of Computer Science who is willing to become a fullstack developer
 
 
