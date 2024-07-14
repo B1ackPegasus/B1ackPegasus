@@ -1,9 +1,6 @@
-## Hi there 👋
+# Hi👋,I'm Helena Bohun 
+## :woman_technologist: Student of Computer Science who is willing to become a fullstack developer
 
-<!--
-**B1ackPegasus/B1ackPegasus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
