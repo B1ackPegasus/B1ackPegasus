@@ -2,7 +2,7 @@
 ## :woman_technologist: Student of Computer Science who is willing to become a fullstack developer
 
 
-- :school: I'm third year student at Polish Japanese Academy of Information Technologies and Intern in Big4
+- :school: I'm third year student at Polish Japanese Academy of Information Technologies and Data Engineer in Big4
 - 🌱 I’m currently learning Cloud Technologies 
 - 💬 Ask me about JS, Python,TypeScript PostgreSQL
 
